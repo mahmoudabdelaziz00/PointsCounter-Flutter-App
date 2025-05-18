@@ -1,0 +1,2 @@
+C:/Users/Mahmoud/AndroidStudioProjects/PointsCounter-Flutter-App/android/app/.cxx/Debug/6s5z4f34/x86/CMakeFiles/edit_cache.dir
+C:/Users/Mahmoud/AndroidStudioProjects/PointsCounter-Flutter-App/android/app/.cxx/Debug/6s5z4f34/x86/CMakeFiles/rebuild_cache.dir
